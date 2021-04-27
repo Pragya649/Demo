@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_564007_demo_demo_main">x_564007_demo_demo_main</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>DEM</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-26 05:55:16</sys_created_on>
+        <sys_id>cad731f007732010311cf2ae7c1ed040</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEM</sys_name>
+        <sys_package display_value="Demo" source="x_564007_demo">9307b5b007732010311cf2ae7c1ed092</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo">9307b5b007732010311cf2ae7c1ed092</sys_scope>
+        <sys_update_name>sys_number_cad731f007732010311cf2ae7c1ed040</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-26 05:55:16</sys_updated_on>
+    </sys_number>
+</record_update>
